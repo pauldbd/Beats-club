@@ -9,9 +9,9 @@ body {
     font-family: 'Inconsolata', monospace;
     font-family: 'Unna', serif;
 
-    background-color: rgb(46, 46, 46);
+    background-color: #f0e3bd;
 
-    color: rgb(216, 216, 216);
+    color: #505050;
 
 }
 
@@ -27,11 +27,13 @@ body {
 
     animation: cursorAnimation 0.9s steps(1) infinite, typing 1.2s steps(11, end); 
 
+    text-decoration: underline;
+
 
 }
 
 @keyframes cursorAnimation {
-    from, to {border-right-color:rgb(216, 216, 216)} 50% {border-right-color: transparent}; 
+    from, to {border-right-color:rgb(107, 107, 107)} 50% {border-right-color: transparent}; 
 }
 
 @keyframes typing {

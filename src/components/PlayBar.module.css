@@ -1,0 +1,34 @@
+.slider {
+    background-color: rgb(255, 255, 255);
+
+    width: 100%;
+    height: 0.5vw;
+
+    margin-bottom: 1vw;
+    margin-left: auto;
+    margin-right: auto;
+
+    border-radius: 10%;
+
+
+}
+
+.pageTitle {
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-size: 1.5vw;
+    margin-bottom: 0.5vw;
+    margin-top: 0.5vw;
+}
+
+.playBarDiv {
+    background-color: rgb(159, 159, 159);
+
+    bottom: 0;  
+    position: absolute;
+
+    width: 100%;
+    text-align: center;
+
+
+}
