@@ -7,7 +7,8 @@ class indexPage extends React.Component {
     return (
       <div>
         <Title/>
-        <Texts>Ivory Hills is a production collective based in Albuquerque, New Mexico. The collective also facilitates La Cueva Highschool's Beats / Production Club. 
+        <Texts>Ivory Hills is a production collective based in Albuquerque, New Mexico. The collective also facilitates the La Cueva Highschool Beats / Production Club. 
+          In addition to that, the collective has a vast collection of projects, ranging from Hip Hop to Hyper Pop, to Trap. 
         </Texts>
       </div>
     )

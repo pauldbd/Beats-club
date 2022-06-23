@@ -23,7 +23,7 @@ body {
     overflow: hidden;
     margin: 0 auto;
 
-    font-size: 4vw;
+    font-size: 85px;
 
     animation: cursorAnimation 0.9s steps(1) infinite, typing 1.2s steps(11, end); 
 

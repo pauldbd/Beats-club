@@ -1,5 +1,5 @@
 import * as React from "react"; 
-import {pageTitle, slider, playBarDiv} from "./PlayBar.module.css"; 
+import {pageTitle, slider, playBarDiv, next} from "./PlayBar.module.css"; 
 
 const PlayBar = (props)=>{
 
@@ -7,7 +7,7 @@ const PlayBar = (props)=>{
         <div className={playBarDiv}> 
             <p className={pageTitle}>{props.title}</p>
             <div className={slider} style={{width: props.width, transition: "ease-in-out all .1s"}}></div>
-
+            
         </div>
     )
 }

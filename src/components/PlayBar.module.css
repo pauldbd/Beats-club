@@ -8,21 +8,21 @@
     margin-left: auto;
     margin-right: auto;
 
-    border-radius: 10%;
+    border-radius: 25px
 
 
 }
 
 .pageTitle {
     position: relative;
-    color: rgb(255, 255, 255);
-    font-size: 1.5vw;
+    color: rgb(74, 74, 74);
+    font-size: 30px;
     margin-bottom: 0.5vw;
     margin-top: 0.5vw;
 }
 
 .playBarDiv {
-    background-color: rgb(159, 159, 159);
+    /* background-color: rgb(159, 159, 159); */
 
     bottom: 0;  
     position: absolute;
@@ -32,3 +32,5 @@
 
 
 }
+
+
