@@ -11,6 +11,8 @@ body {
 
     background-color: #f0e3bd;
 
+
+
     color: #505050;
 
 }
@@ -23,7 +25,7 @@ body {
     overflow: hidden;
     margin: 0 auto;
 
-    font-size: 60px;
+    font-size: 340%;
 
     animation: cursorAnimation 0.9s steps(1) infinite, typing 1.2s steps(11, end); 
 
@@ -47,8 +49,6 @@ body {
     align-items: center;
 
     margin-top: 2vw;
-
-    
 
 }
 
